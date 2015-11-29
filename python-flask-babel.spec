@@ -19,7 +19,7 @@ Source0:	https://pypi.python.org/packages/source/F/Flask-Babel/Flask-Babel-%{ver
 # Source0-md5:	4762e0392303f464d53cbebedfb87ded
 URL:		http://github.com/mitsuhiko/flask-babel
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 %if %{with python2}
 BuildRequires:	python-distribute
 BuildRequires:	python-speaklater
