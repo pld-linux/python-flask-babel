@@ -11,7 +11,7 @@ Summary(pl.UTF-8):	Rozszerzenie Flask dodajÄ…ce wsparcie dla i18n i l10n przy uÅ
 # Name must match the python module/package name (as in 'import' statement)
 Name:		python-%{module}
 Version:	0.9
-Release:	5
+Release:	6
 License:	BSD
 Group:		Libraries/Python
 # https://pypi.python.org/packages/source/F/Flask-Babel/Flask-Babel-0.9.tar.gz
