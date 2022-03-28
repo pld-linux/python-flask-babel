@@ -25,7 +25,6 @@ BuildRequires:	python-distribute
 BuildRequires:	python-speaklater
 %endif
 %if %{with python3}
-BuildRequires:	python3-distribute
 BuildRequires:	python3-modules
 BuildRequires:	python3-speaklater
 %endif
